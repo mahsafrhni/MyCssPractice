@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6345900-3f76-4a99-b23b-43a8e7294ddd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Css.html" beforeDir="false" afterPath="$PROJECT_DIR$/Css.html" afterDir="false" />
+    <list default="true" id="f6345900-3f76-4a99-b23b-43a8e7294ddd" name="Default Changelist" comment="yes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +58,37 @@
       <option name="presentableId" value="Default" />
       <updated>1601566915797</updated>
       <workItem from="1601566917095" duration="5153000" />
-      <workItem from="1601652325070" duration="1879000" />
+      <workItem from="1601652325070" duration="4328000" />
+      <workItem from="1601722351754" duration="2493000" />
     </task>
+    <task id="LOCAL-00001" summary="yes">
+      <created>1601658732880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601658732880</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yes" />
+    <option name="LAST_COMMIT_MESSAGE" value="yes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="556" y="266" key="Github.ShareDialog" timestamp="1601566996062">
@@ -56,5 +99,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="548" y="73" key="Github.UntrackedFilesDialog/0.0.1366.738@0.0.1366.738" timestamp="1601567050831" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1601658748957">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1601658748957" />
   </component>
 </project>
